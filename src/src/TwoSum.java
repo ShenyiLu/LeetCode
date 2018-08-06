@@ -7,7 +7,7 @@ public class TwoSum {
 
 }
 
-class Solution {
+class TSSolution {
     public int[] twoSum(int[] nums, int target) {
         int[] result = new int[2];
         int head = 0;
